@@ -93,3 +93,15 @@ git push -d origin [branch name]
 ```
 
 Simplified version: `g pdo [branch name]`
+
+```bash
+clean the terminal line `
+```
+
+Control + U
+
+```bash
+clean the terminal page`
+```
+
+Control + L
