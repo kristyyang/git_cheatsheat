@@ -105,3 +105,7 @@ clean the terminal page`
 ```
 
 Control + L
+
+```bash
+g ck --track origin/cutiekristy
+```
